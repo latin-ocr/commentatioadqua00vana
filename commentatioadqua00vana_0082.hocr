@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentatioadqua00vana_0082.png"; bbox 0 0 2080 2744; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 812 1441 1219 1566">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 812 1441 1219 1566">
+     <span class='ocr_line' id='line_1_1' title="bbox 890 1441 1144 1481; baseline 0.039 -10"><span class='ocrx_word' id='word_1_1' title='bbox 890 1441 971 1474; x_wconf 60' lang='grc' dir='ltr'>ΗΘΖ</span> <span class='ocrx_word' id='word_1_2' title='bbox 990 1448 1144 1481; x_wconf 55' lang='grc' dir='ltr'>ΗΨἫΧΡΨ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 812 1479 1219 1525; baseline 0.047 -18"><span class='ocrx_word' id='word_1_3' title='bbox 812 1479 915 1512; x_wconf 57' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_4' title='bbox 920 1487 955 1513; x_wconf 66' lang='grc' dir='ltr'>ὟΓ</span> <span class='ocrx_word' id='word_1_5' title='bbox 949 1490 982 1515; x_wconf 99' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_6' title='bbox 1006 1492 1036 1518; x_wconf 90' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1147 1497 1219 1525; x_wconf 79' lang='grc' dir='ltr'>ἶΤΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 819 1506 1208 1566; baseline 0.046 -17"><span class='ocrx_word' id='word_1_8' title='bbox 819 1523 1038 1560; x_wconf 56' lang='lat' dir='ltr'>CRM-,MIDGE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1058 1506 1121 1563; x_wconf 56' lang='grc' dir='ltr'>ΜΤΧ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1134 1538 1208 1566; x_wconf 69' lang='grc' dir='ltr'>ΗΒΑ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
